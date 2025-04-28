@@ -76,7 +76,7 @@ Novaa Computer, inspired by is an automation agent designed to perform precise a
 
 ## Examples
 
-![Demo for THE FORGE](https://drive.google.com/file/d/14hURGS2iFaL3fHt7nNucp8njTFw4Q1bm/view?usp=sharing)
+[🎬 Watch Demo Video for THE FORGE](https://drive.google.com/file/d/14hURGS2iFaL3fHt7nNucp8njTFw4Q1bm/view?usp=sharing)
 
 ## How it works?
 
